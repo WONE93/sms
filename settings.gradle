@@ -1,0 +1,6 @@
+rootProject.name='sms receiver'
+include ':app', ':samplelocation'
+include ':samplecamera'
+include ':contactsample'
+include ':locationsample'
+include ':samplealbum3'
